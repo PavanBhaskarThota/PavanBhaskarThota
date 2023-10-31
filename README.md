@@ -1,9 +1,9 @@
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<div align="center">
 <h1 align="center">Hi 👋, I'm Pavan Bhaskar Thota</h1>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PavanBhaskarThota&label=Profile%20views&color=0e75b6&style=flat" alt="PavanBhaskarThota" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PavanBhaskarThota&theme=" alt="PavanBhaskarThota" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/pavan-bhaskar-thota" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/PavanBhaskarThota" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -41,7 +41,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PavanBhaskarThota&theme=github"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
+</div>
 <!--
 **PavanBhaskarThota/PavanBhaskarThota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
