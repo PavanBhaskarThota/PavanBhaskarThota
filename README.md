@@ -2,6 +2,8 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Pavan Bhaskar Thota</h1>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+  <img src="https://img.freepik.com/premium-vector/programmer-engineering-development-coding-web-development-website-design-developer-vector_199064-126.jpg?size=626&ext=jpg"/>
+  <p> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PavanBhaskarThota&label=Profile%20views&color=0e75b6&style=flat" alt="PavanBhaskarThota" /> </p>
 
 
