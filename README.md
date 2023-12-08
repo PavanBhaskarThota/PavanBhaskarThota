@@ -10,7 +10,7 @@
 </div><h3 align="center">Connect with me:</h3>
 <div> <a href="https://www.linkedin.com/in/pavan-bhaskar-thota" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<div> <a href="https://pavanbhaskarthota.github.io/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://pavanbhaskarthota.github.io/" target="_blank"><h1 align="center">My Portfolio</h1></a>
 
 <a herf="https://pavanbhaskarthota.github.io/" target="_blank"> <h1 align="center">My Portfolio</h1>  </a>
 
