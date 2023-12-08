@@ -14,7 +14,7 @@ Skilled full-stack web developer in MERN. Experienced in solo and team projects.
 ### 🌐 Socials:
   
 ####  🔗 LinkedIn: <a href="https://www.linkedin.com/in/pavan-bhaskar-thota/">PavanBhaskar</a>
-####  📨 Mail:<a href="mailto:leeladharjagarapu@gmail.com">leeladharjagarapu@gmail.com</a>
+####  📨 Mail:<a href="mailto:pavanbhaskarthota05@gmail.com">pavanbhaskarthota05@gmail.com</a>
       
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
