@@ -2,7 +2,7 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=600&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
-<img align="right" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" alt="GIF IMG" width="45%" />
+<img align="right" src="https://raw.githubusercontent.com/nag-murali/nag-murali/main/images/web-development.gif" alt="GIF IMG" width="45%" />
 <h3>💫 About Me:</h3>
 Versatile MERN full-stack developer adept in solo and collaborative projects. Eager to contribute expertise to impactful web development ventures, fostering innovation.
 <br/> 
