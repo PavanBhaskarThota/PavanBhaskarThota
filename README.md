@@ -23,12 +23,15 @@ Versatile MERN full-stack developer adept in solo and collaborative projects. Ea
 <br/>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,redux,nodejs,express,mongodb" />
+    <h1>Frontend :</h1>
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,git,react,redux,materialui" />
+    <h1>Backend :</h1>
+    <img src="https://skillicons.dev/icons?i=c,nodejs,express,mongodb" />
   </a>
 </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBhaskarThota&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=PavanBhaskarThota&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBhaskarThota&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=donut)<br/>
+![](https://github-readme-stats.vercel.app/api?username=PavanBhaskarThota&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
