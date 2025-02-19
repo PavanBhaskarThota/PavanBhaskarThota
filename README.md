@@ -24,14 +24,17 @@ Versatile MERN full-stack developer adept in solo and collaborative projects. Ea
 <p align="left">
   <a href="https://skillicons.dev">
     <h1>Frontend :</h1>
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,git,react,redux,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+    <img src="https://skillicons.dev/icons?i=react,redux,materialui" />
     <h1>Backend :</h1>
-    <img src="https://skillicons.dev/icons?i=c,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
 </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBhaskarThota&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=donut)<br/>
-![](https://github-readme-stats.vercel.app/api?username=PavanBhaskarThota&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBhaskarThota&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanBhaskarThota&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" width="45%" />
+</div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
